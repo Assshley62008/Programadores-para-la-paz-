@@ -1,3 +1,2 @@
 # Programadores-para-la-paz-
-Actividad Guía de ejercicios la primera semana.
-git add .
+Actividad Guía de ejercicios la primera semana
